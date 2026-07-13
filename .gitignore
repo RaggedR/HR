@@ -1,0 +1,12 @@
+data/*.json
+data/team/
+data/warm-leads.pdf
+data/kodamai-team.json
+data/candidate-connections.json
+venv/
+__pycache__/
+*.pyc
+.env
+fleur_de_lis_fence.webp
+horizontal-and-vertical-borders.webp
+test_offer.pdf
